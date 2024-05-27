@@ -18,7 +18,7 @@ Décrivez ici en quelques lignes l'objectif et l'aperçu général de votre proj
 
 Ici vous publierez le poster de votre projet.
 
-![Poster projet](images/Poster Projet I3-1.jpg)
+![Poster projet](images/poster.png)
 
 ## Vidéo
 
